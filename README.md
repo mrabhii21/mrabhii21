@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi 👋, I'm Abhishek M R
 
-<!--
-**mrabhii21/mrabhii21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer | Java Programmer | Engineering Graduate
 
-Here are some ideas to get you started:
+I'm an aspiring software developer passionate about learning new technologies, solving problems, and building practical projects. I'm currently improving my programming skills and preparing for opportunities in the IT industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Java, Data Structures & Algorithms
+
+💻 Practicing coding problems on LeetCode
+
+🔧 Learning Git and GitHub for version control
+
+🚀 Interested in software development and AI-powered applications
+
+🎯 Goal: To start my career as a software developer and grow as an engineer
+
+🛠️ Technical Skills
+
+Programming Languages: Java, Python
+
+Version Control: Git, GitHub
+
+Areas of Interest: Software Development, Data Structures & Algorithms, AI Applications
+
+
