@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK M R</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
-<h3 align="center">Passionate about Data analist</h3>
+<h3 align="center">Passionate about Data analyst</h3>
 
 - 🌱 I’m currently learning **JAVA DSA**
 
